@@ -1,0 +1,14 @@
+# Environments
+.env
+__pycache__/
+*.pyc
+
+# Data
+data/
+*.xlsx
+*.csv
+*.zip
+
+# Virtual Environments
+venv/
+.venv/
